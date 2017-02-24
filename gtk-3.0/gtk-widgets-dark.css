@@ -46,7 +46,7 @@
                 1.37
             )
         );
-    border-color: @border_color;
+    border-color: @colorAccent;
 }
 
 entry:focus,

@@ -29,6 +29,7 @@
             "user-not-tracked-symbolic"
         ),
         linear-gradient(
+            to bottom,
             shade (
                 @colorPrimary,
                 1.04
@@ -50,6 +51,7 @@
             "user-not-tracked-symbolic"
         ),
         linear-gradient(
+            to bottom,
             shade (
                 @colorPrimary,
                 1.08
@@ -287,14 +289,6 @@ ConversationListView.view.cell:selected:focus {
 
 .panel.translucent {
     background-color: alpha(#000, 0.5);
-}
-
-.menubar.panel,
-menubar.panel,
-.panel menubar,
-.panel .menubar {
-    box-shadow: none;
-    border: none;
 }
 
 .composited-indicator > revealer label,

@@ -70,7 +70,6 @@
 @define-color insensitive_bg_color #f4f4f2;
 @define-color insensitive_fg_color #a7aba7;
 
-@import url("os-x-buttons.css");
 @import url("gtk-widgets.css");
 @import url("granite-widgets.css");
 @import url("apps.css");
