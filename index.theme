@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=OS-X-buttons
+Comment=OS X buttons for elementary OS by yarik-vv
+Encoding=UTF-8
+
+Name[en_US]=OS-X-buttons
+
+[X-GNOME-Metatheme]
+GtkTheme=elementary
+IconTheme=elementary
+CursorTheme=DMZ-Black
+ButtonLayout=close:maximize
